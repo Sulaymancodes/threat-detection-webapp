@@ -22,7 +22,7 @@ db.once('open', () => {
 
 // Routes
 app.get('/', (req, res) => {
-  res.send('Welcome to Cyberurity Sentinel API');
+  res.send('Welcome to Cybersecurity Sentinel');
 });
 
 // Start server
